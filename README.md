@@ -9,3 +9,4 @@ He hecho que donde sale el nombre de la web al poner el cursor encima cambie de 
 
 
 
+Mi menú se compone con "Inicio, covers, eventos, otros y contactar", en "Inicio" van las últimas novedades o videos subidos, en "Covers" todos los videos de covers o ensayos, en "Eventos" un listado de todos los eventos en los que ha participado el grupo o tiene pensado participar (cada uno de los elementos de este apartado cambia de color al pasar el cursor por encima y al hacerle clic, te lleva a una web de información sobre cada evento abierta en otra pestaña), en "Otros" van fotos, dibujos y demás (las fotos tienen un tamaño pequeño para poder agruparlas bien, cuando pasar el cursor por encima se ven un poco más grandes al igual que con los iconos de las redes sociales y si le haces clic te muestra la foto en tamaño original en otras pestaña) y finalmente en "Contactar" he puesto una forma de contactar con el administrador de la web.
